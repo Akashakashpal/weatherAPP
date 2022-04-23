@@ -1,0 +1,23 @@
+.cardDesign {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-control::placeholder {
+  color: darkgray;
+}
+
+.card {
+  margin-top: 20px;
+  background-color: transparent;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.26);
+  padding: 1rem;
+}
+
+.icon {
+  height: 70px;
+  width: 70px;
+}
